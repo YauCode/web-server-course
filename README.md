@@ -1,2 +1,2 @@
 # web-server-course
-Web Server Programming Course
+Exercises for Web Server Programming Course

@@ -1,0 +1,23 @@
+[
+    {
+        "artist": "Toto",
+        "title": "Toto IV",
+        "year": 1982,
+        "genre": "Pop",
+        "tracks": 10
+    },
+    {
+        "artist": "Steely Dan",
+        "title": "Aja",
+        "year": 1977,
+        "genre": "Jazz Rock",
+        "tracks": 7
+    },
+    {
+        "artist": "Miles Davis",
+        "title": "Kind of Blue",
+        "year": 1959,
+        "genre": "Jazz",
+        "tracks": 5
+    }
+]

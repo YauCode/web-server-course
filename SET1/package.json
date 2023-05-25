@@ -1,0 +1,25 @@
+{
+  "name": "webserttc8430",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js",
+    "dev1": "nodemon ./S1E1/S1E1.js",
+    "dev2": "nodemon ./S1E2/S1E2.js",
+    "dev3": "nodemon ./S1E3/S1E3.js",
+    "dev4": "nodemon ./S1E4/S1E4.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "json-server": "^0.17.2",
+    "nodemon": "^2.0.21"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

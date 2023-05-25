@@ -1,0 +1,11 @@
+# Ignore MacOS generated files #
+.DS_Store
+.DS_Store?
+
+# Node.js
+node_modules
+/node_modules
+node_modules/
+
+# env
+.env
